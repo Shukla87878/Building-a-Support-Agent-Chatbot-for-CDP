@@ -64,8 +64,5 @@ Security & Performance Enhancements
 ✔ Sanitized user inputs to prevent XSS attacks.
 ✔ Lightweight document indexing for fast search responses.
 
-GitHub Repository
-🔗 GitHub Link
-
 Contact & Support
 For any issues or feature requests, feel free to raise a GitHub issue or contact me. 🚀
